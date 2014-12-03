@@ -1,9 +1,13 @@
 /*
-basic Dash firmware. 
+
+This sample code will have Dash turn in circles. Wheee!
+
+Author: Leanne Teeter (lrteeter@gmail.com)
+
+Dash Examples: Fade Lights by Leanne Teeter is licensed under a Creative Commons
+Attribution-ShareAlike 4.0 International License.
+
 */
-
-//This sample code will have Dash turn in circles. Wheee!
-
 
 //Libraries
 #include <EEPROM.h>
